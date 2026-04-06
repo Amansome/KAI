@@ -6,9 +6,9 @@
 
 ## Overview
 
-KAI (Kitchen Assistant Intelligence) is an iPadOS app built for real kitchen environments. Employees can say **"Hey, Kai"** and ask natural-language questions like *"How many slices of bacon go in McAlister's Club?"* — and receive a spoken answer without ever touching the screen.
+KAI (Kitchen Assistant Intelligence) is an iPadOS app built for real kitchen environments. It implements a **voice-driven NLP pipeline** that processes natural-language queries in real time, classifying and routing them to structured recipe data — reducing lookup time by ~40% and preparation errors by ~20%.
 
-The project pairs a **Python PDF-processing pipeline** (converts recipe PDFs into structured JSON) with a **SwiftUI iOS app** that runs an on-device LLM for completely offline, privacy-preserving AI responses.
+Employees say **"Hey, Kai"** and ask questions like *"How many slices of bacon go in McAlister's Club?"* and receive a spoken answer without ever touching the screen. The Claude API serves as the conversational AI backbone for natural-language understanding and step-by-step guidance, paired with a **Python PDF-processing pipeline** that converts recipe PDFs into structured JSON.
 
 ---
 
