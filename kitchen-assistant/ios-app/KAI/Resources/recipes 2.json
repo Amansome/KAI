@@ -1,0 +1,240 @@
+{
+  "recipes": [
+    {
+      "id": "before-you-begin-sandwich",
+      "name": "Before You Begin Sandwich",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "4 crackers",
+            "amount": "5.33 oz",
+            "notes": ""
+          },
+          {
+            "name": "paper",
+            "amount": "6 oz",
+            "notes": ""
+          },
+          {
+            "name": "blue scoops",
+            "amount": "2",
+            "notes": ""
+          },
+          {
+            "name": "oz",
+            "amount": "5.33",
+            "notes": ""
+          },
+          {
+            "name": "crackers",
+            "amount": "4",
+            "notes": ""
+          },
+          {
+            "name": "packs",
+            "amount": "2",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [],
+      "equipment": [],
+      "scoops": [
+        "Blue scoop"
+      ]
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "american cheese 3 slices",
+            "amount": "2 slices",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [],
+      "equipment": [
+        "spatula",
+        "MerryChef",
+        "cutting board"
+      ],
+      "scoops": []
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "category": "salad",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "cucumbers",
+            "amount": "2.5 oz",
+            "notes": "diced"
+          },
+          {
+            "name": "sliced chicken (2 oz)",
+            "amount": "1 Yellow scoop",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [],
+      "equipment": [
+        "bowl"
+      ],
+      "scoops": [
+        "Yellow scoop",
+        "Purple scoop"
+      ]
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "heated (6 oz)",
+            "amount": "1.5 Grey scoop",
+            "notes": ""
+          },
+          {
+            "name": "(0.5 oz)",
+            "amount": "0.5 Yellow scoop",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [],
+      "equipment": [],
+      "scoops": [
+        "Yellow scoop",
+        "Grey scoop"
+      ]
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": []
+      },
+      "steps": [],
+      "equipment": [
+        "spatula",
+        "MerryChef",
+        "pan",
+        "cutting board"
+      ],
+      "scoops": []
+    },
+    {
+      "id": "sandwich",
+      "name": "Sandwich",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "3 slices",
+            "amount": "1.5 slices",
+            "notes": ""
+          },
+          {
+            "name": "2 oz",
+            "amount": "1 oz",
+            "notes": ""
+          },
+          {
+            "name": "2 oz",
+            "amount": "1 oz",
+            "notes": ""
+          },
+          {
+            "name": "1 slices",
+            "amount": "0.5 slice",
+            "notes": ""
+          },
+          {
+            "name": "1 slices",
+            "amount": "0.5 slice",
+            "notes": ""
+          },
+          {
+            "name": "2 slices",
+            "amount": "1 slice",
+            "notes": ""
+          },
+          {
+            "name": "2 slices",
+            "amount": "1 slice",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [],
+      "equipment": [
+        "spatula",
+        "toaster"
+      ],
+      "scoops": []
+    },
+    {
+      "id": "sandwich",
+      "name": "Sandwich",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "3 slices",
+            "amount": "1.5 slices",
+            "notes": ""
+          },
+          {
+            "name": "2 oz",
+            "amount": "1 oz",
+            "notes": ""
+          },
+          {
+            "name": "2 oz",
+            "amount": "1 oz",
+            "notes": ""
+          },
+          {
+            "name": "1 slices",
+            "amount": "0.5 slice",
+            "notes": ""
+          },
+          {
+            "name": "1 slices",
+            "amount": "0.5 slice",
+            "notes": ""
+          },
+          {
+            "name": "2 slices",
+            "amount": "1 slice",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [],
+      "equipment": [
+        "spatula",
+        "toaster"
+      ],
+      "scoops": []
+    }
+  ],
+  "metadata": {
+    "total_recipes": 7,
+    "categories": [
+      "salad",
+      "sandwich"
+    ],
+    "generated_by": "Kitchen Assistant Recipe Processor"
+  }
+}

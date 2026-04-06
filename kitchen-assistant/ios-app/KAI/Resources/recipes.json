@@ -1,0 +1,269 @@
+{
+  "recipes": [
+    {
+      "id": "mcalisters-club",
+      "name": "McAlister's Club",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "bacon",
+            "amount": "4 slices",
+            "notes": "crispy"
+          },
+          {
+            "name": "turkey",
+            "amount": "4 oz",
+            "notes": "sliced"
+          },
+          {
+            "name": "ham",
+            "amount": "3 oz",
+            "notes": "sliced"
+          },
+          {
+            "name": "swiss cheese",
+            "amount": "2 slices",
+            "notes": ""
+          },
+          {
+            "name": "cheddar cheese",
+            "amount": "2 slices",
+            "notes": ""
+          },
+          {
+            "name": "bread",
+            "amount": "3 slices",
+            "notes": "toasted"
+          },
+          {
+            "name": "lettuce",
+            "amount": "2 leaves",
+            "notes": "fresh"
+          },
+          {
+            "name": "tomato",
+            "amount": "3 slices",
+            "notes": "fresh"
+          },
+          {
+            "name": "mayonnaise",
+            "amount": "2 tbsp",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [
+        "Toast 3 slices of bread until golden brown",
+        "Cook 4 slices of bacon until crispy",
+        "Spread mayonnaise on one side of each bread slice",
+        "Layer turkey and swiss cheese on first slice",
+        "Add second slice of bread",
+        "Layer ham, cheddar cheese, bacon, lettuce, and tomato",
+        "Top with third slice of bread",
+        "Secure with toothpicks and cut diagonally"
+      ],
+      "equipment": [
+        "toaster",
+        "pan",
+        "spatula",
+        "knife",
+        "cutting board"
+      ],
+      "scoops": []
+    },
+    {
+      "id": "club-sandwich",
+      "name": "Club Sandwich",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "bacon",
+            "amount": "3 slices",
+            "notes": "crispy"
+          },
+          {
+            "name": "chicken breast",
+            "amount": "4 oz",
+            "notes": "grilled and sliced"
+          },
+          {
+            "name": "bread",
+            "amount": "3 slices",
+            "notes": "white or wheat"
+          },
+          {
+            "name": "lettuce",
+            "amount": "2 leaves",
+            "notes": ""
+          },
+          {
+            "name": "tomato",
+            "amount": "2 slices",
+            "notes": ""
+          },
+          {
+            "name": "mayonnaise",
+            "amount": "1 tbsp",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [
+        "Toast bread slices",
+        "Cook bacon until crispy",
+        "Grill chicken breast and slice",
+        "Spread mayo on bread",
+        "Layer chicken, bacon, lettuce, and tomato",
+        "Stack and secure with toothpicks"
+      ],
+      "equipment": [
+        "toaster",
+        "grill pan",
+        "knife"
+      ],
+      "scoops": []
+    },
+    {
+      "id": "caesar-salad",
+      "name": "Caesar Salad",
+      "category": "salad",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "romaine lettuce",
+            "amount": "1 head",
+            "notes": "chopped"
+          },
+          {
+            "name": "parmesan cheese",
+            "amount": "1/2 cup",
+            "notes": "grated"
+          },
+          {
+            "name": "croutons",
+            "amount": "1 cup",
+            "notes": ""
+          },
+          {
+            "name": "caesar dressing",
+            "amount": "1/4 cup",
+            "notes": ""
+          },
+          {
+            "name": "chicken breast",
+            "amount": "6 oz",
+            "notes": "grilled and sliced (optional)"
+          }
+        ]
+      },
+      "steps": [
+        "Wash and chop romaine lettuce",
+        "Grill chicken breast if using",
+        "Toss lettuce with caesar dressing",
+        "Add parmesan cheese and croutons",
+        "Top with sliced chicken if desired"
+      ],
+      "equipment": [
+        "large bowl",
+        "grill pan",
+        "tongs"
+      ],
+      "scoops": [
+        "Yellow scoop"
+      ]
+    },
+    {
+      "id": "kids-grilled-cheese",
+      "name": "Kids Grilled Cheese",
+      "category": "kids",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "american cheese",
+            "amount": "2 slices",
+            "notes": ""
+          },
+          {
+            "name": "bread",
+            "amount": "2 slices",
+            "notes": "white"
+          },
+          {
+            "name": "butter",
+            "amount": "1 tbsp",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [
+        "Butter one side of each bread slice",
+        "Place cheese between bread slices, butter side out",
+        "Cook in pan until golden brown on both sides",
+        "Cut diagonally and serve"
+      ],
+      "equipment": [
+        "pan",
+        "spatula"
+      ],
+      "scoops": []
+    },
+    {
+      "id": "blt-sandwich",
+      "name": "BLT Sandwich",
+      "category": "sandwich",
+      "ingredients": {
+        "whole": [
+          {
+            "name": "bacon",
+            "amount": "6 slices",
+            "notes": "thick cut"
+          },
+          {
+            "name": "bread",
+            "amount": "2 slices",
+            "notes": "toasted"
+          },
+          {
+            "name": "lettuce",
+            "amount": "3 leaves",
+            "notes": "butter lettuce"
+          },
+          {
+            "name": "tomato",
+            "amount": "4 slices",
+            "notes": "ripe"
+          },
+          {
+            "name": "mayonnaise",
+            "amount": "2 tbsp",
+            "notes": ""
+          }
+        ]
+      },
+      "steps": [
+        "Cook bacon until crispy",
+        "Toast bread slices",
+        "Spread mayo on both slices",
+        "Layer lettuce, tomato, and bacon",
+        "Close sandwich and cut in half"
+      ],
+      "equipment": [
+        "pan",
+        "toaster",
+        "knife"
+      ],
+      "scoops": []
+    }
+  ],
+  "metadata": {
+    "total_recipes": 5,
+    "categories": [
+      "sandwich",
+      "salad", 
+      "kids"
+    ],
+    "generated_by": "Kitchen Assistant Recipe Processor"
+  }
+}

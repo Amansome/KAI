@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "base_url": "http://localhost:11434",
+  "timeout": 30,
+  "max_retries": 3,
+  "model": "llama3.2:3b",
+  "fallback_model": "llama3.2:1b",
+  "use_for_extraction": true,
+  "use_for_normalization": true,
+  "use_for_cleaning": true,
+  "max_context_length": 4000,
+  "temperature": 0.1
+}
